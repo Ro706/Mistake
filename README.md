@@ -1,5 +1,4 @@
-# Define the code explanation in markdown format
-code_explanation_md = """
+# Define the code explanation 
 # Code Explanation
 
 ## Importing the `time` module
