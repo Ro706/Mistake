@@ -29,10 +29,3 @@
 - This code snippet creates a simple "mistake tracker" that allows users to input mistakes, records them in a list, and appends them to a text file along with timestamps.
 """
 
-# Write the markdown content to a file
-with open('code_explanation.md', 'w') as file:
-    file.write(code_explanation_md)
-
-# Print a success message
-print("The code explanation has been successfully written to 'code_explanation.md'.")
-
